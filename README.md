@@ -1,4 +1,4 @@
-# api-escol
+# api-escola
 Uma API REST feita a primeira versão(/api/v1/) com APIViews criado um CRUD,
 sobrescrevendo os métodos genéricos, após isso, ultilizado ViewSets e Routers
 para a versão 2 da api(/api/v2/) customizando as ViewSets, ultilizando relações
